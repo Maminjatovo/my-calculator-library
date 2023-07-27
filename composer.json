@@ -1,0 +1,23 @@
+{
+    "name": "mamie/my-calculator-library",
+    "version": "1.0.0",
+    "description": "test library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mamie\\MyCalculatorLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Herinantenaina",
+            "email": "herinantenaina123mami@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+
+}
