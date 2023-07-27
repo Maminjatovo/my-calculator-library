@@ -15,9 +15,6 @@
             "email": "herinantenaina123mami@gmail.com"
         }
     ],
-    "require": {
-        "php": ">=7.4",
-        "another-vendor/package": "1.*"
-    }
+    "require": {}
 
 }
